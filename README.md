@@ -24,5 +24,5 @@ McLogger creates a proxy for some server, that steals whatever the player writes
 6. **Run McLogger:**
    - Open McLogger and have fun :D
 
-# You found a bug or want to suggest an idea?
+**You found a bug or want to suggest an idea?**
 Don't forget - you can appeal a bug/suggest an idea [here](https://github.com/TurboKoT1/McLogger/issues)
